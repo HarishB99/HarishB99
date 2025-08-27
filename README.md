@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Current status: Undergrad InfoSec student at NUS (National University of Singapore)
+
+### ⚡ Fun facts
+
+* I use Arch, btw
+* I use Neovim, btw
+
 <!--
 **HarishB99/HarishB99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
