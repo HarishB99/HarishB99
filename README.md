@@ -7,7 +7,7 @@ Current status: Undergrad InfoSec student at NUS (National University of Singapo
 * I use Arch, btw
 * I use Neovim, btw
 
-<a href="https://stackoverflow.com/users/6472480/harish"><img src="https://stackoverflow.com/users/flair/6472480.png" width="208" height="58" alt="profile for Harish at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Harish at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/6472480/harish"><img src="https://stackoverflow.com/users/flair/6472480.png?theme=clean" width="208" height="58" alt="profile for Harish at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Harish at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--
 **HarishB99/HarishB99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
